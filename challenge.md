@@ -6,6 +6,6 @@ Challenge:
 4. git init
 5. git add .
 6. git commit -m "Initial commit"
-7. git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+7. git remote add origin <https://github.com/YOUR_USERNAME/YOUR_REPO.git>
 8. git branch -M main
 9. git push -u origin main
